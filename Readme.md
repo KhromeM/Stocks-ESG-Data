@@ -1,6 +1,6 @@
 # ESG Data for about 9,500 thousand tickers on the Nasdaq and NYSE
 
-This data was gathered in October 2023.
+This data was gathered on October 2023.
 
 I included lists of tickers and the code I used to scrape this data incase its helpful.
 
